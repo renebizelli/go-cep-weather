@@ -1,0 +1,16 @@
+GET http://localhost:8080/cep/03132010
+
+
+###
+
+GET http://localhost:8080/cep/20010010
+
+###
+
+GET http://api.weatherapi.com/v1/current.json?q=Rio de Janeiro
+
+Key: b0521787020347eca0b22548250104
+
+###
+
+GET http://viacep.com.br/ws/53132010/json/

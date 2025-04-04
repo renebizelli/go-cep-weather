@@ -14,3 +14,7 @@ Key: b0521787020347eca0b22548250104
 ###
 
 GET http://viacep.com.br/ws/53132010/json/
+
+###
+
+GET https://renebizelli-go-weather-799601504925.us-central1.run.app/cep/03132010
